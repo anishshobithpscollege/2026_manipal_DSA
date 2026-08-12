@@ -18,7 +18,9 @@ _None yet. Add one under `assignments/theory/`._
 
 <!-- LAB:START -->
 
-_None yet. Add one under `assignments/lab/`._
+| # | Assignment | Download |
+| :-- | :-- | :-- |
+| 01 | Check if an Array is a Palindrome | [PDF](../../releases/download/latest/261100690032_Anish_Shobith_P_S_Data_Structures_and_Algorithms_Lab_ESE_5152_01.pdf) |
 
 <!-- LAB:END -->
 
