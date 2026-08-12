@@ -1,7 +1,7 @@
 #import "/template/lib.typ": *
 
 #show: assignment.with(
-  title: "Check if an Array is a Palindrome",
+  title: "Array Palindrome Check",
   number: "Assignment 01",
   kind: "Lab",
   keywords: ("palindrome", "two pointer", "arrays", "C"),
