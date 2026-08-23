@@ -1,3 +1,9 @@
+/**
+ * Name: Anish Shobith P S
+ * Reg No: 261100690032
+ * Assignment 02: Student Database using Double Linked List.
+ */
+
 #include <stdio.h>
 #include "./headers/student.h"
 
