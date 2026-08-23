@@ -22,6 +22,7 @@ static void print_menu(void) {
 }
 
 int main(void) {
+    assertDLL(); // Run assertions before we begin
     DLL *list = dll_create();
 
     if (list == NULL) {

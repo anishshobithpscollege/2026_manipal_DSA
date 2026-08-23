@@ -27,4 +27,6 @@ int dll_insert_at(DLL *list, size_t index, void *data);
 void dll_swap(DLLNode *a, DLLNode *b);
 void dll_unlink(DLL *list, DLLNode *node);
 
+void assertDLL(void);
+
 #endif
