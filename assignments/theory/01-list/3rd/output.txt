@@ -1,0 +1,95 @@
+Records loaded from students.csv
+
+1. Add
+2. Remove
+3. Update
+4. Find
+5. Display all
+6. Save
+7. Exit
+Choice: 5
+Roll    Name    Marks
+1       anish   90.45
+
+1. Add
+2. Remove
+3. Update
+4. Find
+5. Display all
+6. Save
+7. Exit
+Choice: 1
+Roll number: 2
+Name: bimal
+Marks: 78.5
+Student added.
+
+1. Add
+2. Remove
+3. Update
+4. Find
+5. Display all
+6. Save
+7. Exit
+Choice: 5
+Roll    Name    Marks
+1       anish   90.45
+2       bimal   78.50
+
+1. Add
+2. Remove
+3. Update
+4. Find
+5. Display all
+6. Save
+7. Exit
+Choice: 4
+Roll number to find: 2
+2       bimal   78.50
+
+1. Add
+2. Remove
+3. Update
+4. Find
+5. Display all
+6. Save
+7. Exit
+Choice: 3
+Roll number to update: 2
+Current: 2      bimal   78.50
+New roll number: 2
+Name: bimal kumar
+Marks: 88
+Student updated.
+
+1. Add
+2. Remove
+3. Update
+4. Find
+5. Display all
+6. Save
+7. Exit
+Choice: 2
+Roll number to remove: 1
+Student removed.
+
+1. Add
+2. Remove
+3. Update
+4. Find
+5. Display all
+6. Save
+7. Exit
+Choice: 5
+Roll    Name    Marks
+2       bimal kumar     88.00
+
+1. Add
+2. Remove
+3. Update
+4. Find
+5. Display all
+6. Save
+7. Exit
+Choice: 7
+Saved to students.csv

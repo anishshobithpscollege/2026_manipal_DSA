@@ -1,0 +1,62 @@
+
+1. Insert
+2. Swap adjacent
+3. Display
+4. Exit
+Choice: 1
+Value: 10
+
+1. Insert
+2. Swap adjacent
+3. Display
+4. Exit
+Choice: 1
+Value: 20
+
+1. Insert
+2. Swap adjacent
+3. Display
+4. Exit
+Choice: 1
+Value: 30
+
+1. Insert
+2. Swap adjacent
+3. Display
+4. Exit
+Choice: 1
+Value: 40
+
+1. Insert
+2. Swap adjacent
+3. Display
+4. Exit
+Choice: 1
+Value: 50
+
+1. Insert
+2. Swap adjacent
+3. Display
+4. Exit
+Choice: 3
+10 20 30 40 50 
+
+1. Insert
+2. Swap adjacent
+3. Display
+4. Exit
+Choice: 2
+Adjacent nodes swapped.
+
+1. Insert
+2. Swap adjacent
+3. Display
+4. Exit
+Choice: 3
+20 10 40 30 50 
+
+1. Insert
+2. Swap adjacent
+3. Display
+4. Exit
+Choice: 4
