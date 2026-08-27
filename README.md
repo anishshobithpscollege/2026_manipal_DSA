@@ -10,7 +10,9 @@ Every push to `main` compiles each assignment to a PDF and attaches it to the [l
 
 <!-- THEORY:START -->
 
-_None yet. Add one under `assignments/theory/`._
+| # | Assignment | Download |
+| :-- | :-- | :-- |
+| 01 | Linked Lists, Stacks, and a Student Database | [PDF](../../releases/download/latest/261100690032_Anish_Shobith_P_S_Data_Structures_and_Algorithms_ESE_5102_01.pdf) |
 
 <!-- THEORY:END -->
 
