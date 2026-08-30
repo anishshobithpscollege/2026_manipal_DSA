@@ -24,6 +24,7 @@ Every push to `main` compiles each assignment to a PDF and attaches it to the [l
 | :-- | :-- | :-- |
 | 01 | Array Palindrome Check | [PDF](../../releases/download/latest/261100690032_Anish_Shobith_P_S_Data_Structures_and_Algorithms_Lab_ESE_5152_01.pdf) |
 | 02 | Student Database with a Doubly Linked List | [PDF](../../releases/download/latest/261100690032_Anish_Shobith_P_S_Data_Structures_and_Algorithms_Lab_ESE_5152_02.pdf) |
+| 03 | Student Database with Stacks and Queues | [PDF](../../releases/download/latest/261100690032_Anish_Shobith_P_S_Data_Structures_and_Algorithms_Lab_ESE_5152_03.pdf) |
 
 <!-- LAB:END -->
 
