@@ -26,6 +26,7 @@ Every push to `main` compiles each assignment to a PDF and attaches it to the [l
 | 02 | Student Database with a Doubly Linked List | [PDF](../../releases/download/latest/261100690032_Anish_Shobith_P_S_Data_Structures_and_Algorithms_Lab_ESE_5152_02.pdf) |
 | 03 | Student Database with Stacks and Queues | [PDF](../../releases/download/latest/261100690032_Anish_Shobith_P_S_Data_Structures_and_Algorithms_Lab_ESE_5152_03.pdf) |
 | 04 | Stack/Queue Library and Stack Applications | [PDF](../../releases/download/latest/261100690032_Anish_Shobith_P_S_Data_Structures_and_Algorithms_Lab_ESE_5152_04.pdf) |
+| 05 | Priority Queues | [PDF](../../releases/download/latest/261100690032_Anish_Shobith_P_S_Data_Structures_and_Algorithms_Lab_ESE_5152_05.pdf) |
 
 <!-- LAB:END -->
 
