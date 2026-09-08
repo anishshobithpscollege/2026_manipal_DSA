@@ -4,6 +4,7 @@
   title: "Student Database with Stacks and Queues",
   number: "Assignment 03",
   kind: "Lab",
+  date: datetime(year: 2026, month: 8, day: 30),
   keywords: ("stack", "queue", "array", "linked list", "C"),
 )
 

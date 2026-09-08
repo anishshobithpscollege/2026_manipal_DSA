@@ -4,6 +4,7 @@
   title: "Array Palindrome Check",
   number: "Assignment 01",
   kind: "Lab",
+  date: datetime(year: 2026, month: 8, day: 12),
   keywords: ("palindrome", "two pointer", "arrays", "C"),
 )
 

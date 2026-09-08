@@ -1,0 +1,62 @@
+1. Insert
+2. Remove
+3. Peak
+4. Display
+5. Exit
+Choice: 1
+Enter integer to insert: 40
+Enter its priority (lower leaves first): 5
+Inserted: 40 with priority 5
+
+Choice: 1
+Enter integer to insert: 30
+Enter its priority (lower leaves first): 2
+Inserted: 30 with priority 2
+
+Choice: 1
+Enter integer to insert: 50
+Enter its priority (lower leaves first): 3
+Inserted: 50 with priority 3
+
+Choice: 1
+Enter integer to insert: 10
+Enter its priority (lower leaves first): 1
+Inserted: 10 with priority 1
+
+Choice: 1
+Enter integer to insert: 20
+Enter its priority (lower leaves first): 1
+Inserted: 20 with priority 1
+
+Choice: 4
+List from highest priority: 10(p1) 20(p1) 30(p2) 50(p3) 40(p5)
+
+Choice: 3
+Value at peak is : 10 with priority 1
+
+Choice: 2
+Removed: 10 with priority 1
+
+Choice: 4
+List from highest priority: 20(p1) 30(p2) 50(p3) 40(p5)
+
+Choice: 2
+Removed: 20 with priority 1
+
+Choice: 2
+Removed: 30 with priority 2
+
+Choice: 2
+Removed: 50 with priority 3
+
+Choice: 2
+Removed: 40 with priority 5
+
+Choice: 2
+Underflow
+
+Choice: 4
+Priority queue is empty
+
+Choice: 5
+Bye

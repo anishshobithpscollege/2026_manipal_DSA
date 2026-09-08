@@ -4,6 +4,7 @@
   title: "Student Database with a Doubly Linked List",
   number: "Assignment 02",
   kind: "Lab",
+  date: datetime(year: 2026, month: 8, day: 23),
   keywords: ("doubly linked list", "CRUD", "menu driven", "C"),
 )
 

@@ -49,6 +49,11 @@
   }
 }
 
+// Terminal transcript: the same frame as a code block, without line numbers.
+#let transcript(source) = codly.local(number-format: none)[
+  #raw(source, block: true)
+]
+
 // Apply this once in the document setup to turn on codly for every code block.
 #let code-setup = doc => {
   show: codly.codly-init.with()

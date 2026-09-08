@@ -3,3 +3,4 @@ dist/
 venv/
 __pycache__/
 *.out
+assignments/lab/02-student-dll/lab/

@@ -5,6 +5,7 @@
   title: "Linked Lists, Stacks, and a Student Database",
   number: "Assignment 01",
   kind: "Theory",
+  date: datetime(year: 2026, month: 8, day: 26),
   keywords: ("singly linked list", "stack", "array list", "C"),
 )
 

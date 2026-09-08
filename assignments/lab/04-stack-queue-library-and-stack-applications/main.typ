@@ -4,6 +4,7 @@
   title: "Stack/Queue Library and Stack Applications",
   number: "Assignment 04",
   kind: "Lab",
+  date: datetime(year: 2026, month: 9, day: 2),
   keywords: ("stack", "queue", "generic", "expression parsing", "C"),
 )
 
